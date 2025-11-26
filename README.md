@@ -7,10 +7,10 @@
 ## 🔥 **Overview**
 
 **OSINT Academy** is a fully interactive, cyber-styled platform designed for anyone learning:
-✔ OSINT
-✔ Ethical Hacking
-✔ Cybersecurity
-✔ Reconnaissance Techniques
+- ✔ OSINT
+- ✔ Ethical Hacking
+- ✔ Cybersecurity
+- ✔ Reconnaissance Techniques
 
 It features a **real-time Google Dork Generator**, **username/email/phone recon tools**, **custom cursor**, and a **clean modern cyber design**.
 Perfect for beginners, learners, and pentesters.
