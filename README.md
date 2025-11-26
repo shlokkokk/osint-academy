@@ -1,5 +1,3 @@
----
-
 # **📘 OSINT ACADEMY – Open Source Intelligence Learning Platform**
 
 *A cyber-themed OSINT toolkit + study guide with Google Dork Generator, recon tools, and animated Matrix UI.*
