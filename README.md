@@ -16,11 +16,13 @@ It features a **real-time Google Dork Generator**, **username/email/phone recon 
 Perfect for beginners, learners, and pentesters.
 
 ---
-## 🔗 Live Demo
 
-🚀 **Try the OSINT Academy here:**  
+## 🔗 Live Site
+
+🚀 **Experience OSINT Academy Online:**  
 👉 https://shlokkokk.github.io/osint-academy/
 
+*(Best viewed on desktop for full cyber animations)*  
 
 ## 🎯 **Key Features**
 
